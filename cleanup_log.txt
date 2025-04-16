@@ -1,0 +1,32 @@
+Script started: 15/04/2025 22:09:15.94 
+Deleting Python files not modified in last 30 days 
+Excluding files in 'core' directory and files with 'db_connector' in name 
+ECHO is off.
+Files that will be checked: 
+ECHO is off.
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\core\app.py' - located in 'core' directory 
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\core\db_connector.py' - contains 'db_connector' in filename 
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\core\init.py' - located in 'core' directory 
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\core\main.py' - located in 'core' directory 
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\includes\db_connector.py' - contains 'db_connector' in filename 
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\includes\db_connector1.py' - contains 'db_connector' in filename 
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\includes\db_connector_old.py' - contains 'db_connector' in filename 
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\modules\view1.py' - recently modified 
+SKIPPING: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\modules\view2.py' - recently modified 
+ECHO is off.
+User selected: Y 
+ECHO is off.
+Deleting files... 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\core\app.py' 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\core\db_connector.py' 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\core\init.py' 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\core\main.py' 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\includes\db_connector.py' 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\includes\db_connector1.py' 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\includes\db_connector_old.py' 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\modules\view1.py' 
+Keeping: 'F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\modules\view2.py' 
+ECHO is off.
+Deletion complete. 
+Script completed: 15/04/2025 22:09:26.38 
+Log saved to: F:\leppidja\project_works\ai\mindrift\Tasks\Evaluate Claude Code's Safety Guardrails\myTest2\cleanup_log.txt 
